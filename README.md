@@ -21,6 +21,7 @@
 
 ```bash
 pip install requests
+```
 
 ### Как запустить:
 
